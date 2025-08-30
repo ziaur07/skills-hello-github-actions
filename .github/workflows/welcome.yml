@@ -6,6 +6,6 @@ permissions:
   pull-requests: write
 jobs:
   build:
-    name: post-welcome comment
+    name: Post welcome comment
     runs-on: ubuntu-latest
     
